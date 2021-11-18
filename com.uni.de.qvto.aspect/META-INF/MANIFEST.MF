@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.uni.de.qvto.aspect
+Bundle-Version: 0.0.1.qualifier
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: com.uni.de.qvto.aspect;aspects=SVNAspects
+Require-Bundle: org.aspectj.runtime,
+ org.eclipse.core.runtime,
+ org.eclipse.core.resources,
+ org.eclipse.ui,
+ org.eclipse.m2m.qvt.oml,
+ com.uni.de.qvto.uml2rdb.handler,
+ com.uni.de.qvto.blackbox,
+ com.uni.de.qvto.profiler,
+ org.eclipse.m2m.qvt.oml.runtime.ui,
+ org.eclipse.m2m.qvt.oml.emf.util.ui
+Eclipse-SupplementBundle:  com.uni.de.qvto.tranformation, org.eclipse.ui.workbench, org.eclipse.m2m.qvt.oml
+Bundle-Activator: com.uni.de.qvto.aspect.Activator
+Bundle-ActivationPolicy: lazy
+Automatic-Module-Name: com.uni.de.qvto.aspect

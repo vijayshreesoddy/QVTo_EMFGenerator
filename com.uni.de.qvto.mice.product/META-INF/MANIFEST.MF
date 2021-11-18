@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Product
+Bundle-SymbolicName: com.uni.de.qvto.mice.product;singleton:=true
+Bundle-Version: 0.0.1.qualifier

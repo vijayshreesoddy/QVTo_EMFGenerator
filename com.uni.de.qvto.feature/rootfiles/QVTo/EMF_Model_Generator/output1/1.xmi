@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="ASCII"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/qvt/1.0.0/Operational/examples/simpleuml" xsi:schemaLocation="http://www.eclipse.org/qvt/1.0.0/Operational/examples/simpleuml ./../SimpleUML.ecore" name="h">
+  <ownedElements xsi:type="uml:Package" name="q">
+    <ownedElements xsi:type="uml:Package" name="c">
+      <ownedElements xsi:type="uml:Model" name="h">
+        <ownedElements xsi:type="uml:Model" name="g">
+          <ownedElements xsi:type="uml:Class"/>
+          <ownedElements xsi:type="uml:Package"/>
+          <ownedElements xsi:type="uml:Enumeration" name="e"/>
+          <ownedElements xsi:type="uml:Class" name="l" abstract="true"/>
+          <ownedElements xsi:type="uml:Model" name="h">
+            <ownedElements xsi:type="uml:Class"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="q"/>
+            <ownedElements xsi:type="uml:Package" name="c">
+              <ownedElements xsi:type="uml:Class"/>
+            </ownedElements>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package" name="i">
+          <ownedElements xsi:type="uml:Package" name="k">
+            <ownedElements xsi:type="uml:DataType" name="g"/>
+            <ownedElements xsi:type="uml:Package" name="d">
+              <ownedElements xsi:type="uml:Class" name="k"/>
+            </ownedElements>
+          </ownedElements>
+          <ownedElements xsi:type="uml:PrimitiveType" name="e"/>
+          <ownedElements xsi:type="uml:Model" name="m">
+            <ownedElements xsi:type="uml:PrimitiveType" name="e"/>
+            <ownedElements xsi:type="uml:Model" name="h">
+              <ownedElements xsi:type="uml:Enumeration"/>
+            </ownedElements>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Association" name="j" source="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4" target="//@ownedElements.0/@ownedElements.1/@ownedElements.7"/>
+          <ownedElements xsi:type="uml:Model" name="j">
+            <ownedElements xsi:type="uml:Package" name="h"/>
+            <ownedElements xsi:type="uml:DataType" name="n"/>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Model" name="k">
+          <ownedElements xsi:type="uml:PrimitiveType" name="a"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package" name="f">
+          <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.3/@ownedElements.0" target="//@ownedElements.4/@ownedElements.0"/>
+          <ownedElements xsi:type="uml:Package" name="q">
+            <ownedElements xsi:type="uml:DataType" name="e"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:PrimitiveType" name="j"/>
+        </ownedElements>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Association" name="i" source="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.4/@ownedElements.1" target="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4"/>
+      <ownedElements xsi:type="uml:Class" name="j"/>
+      <ownedElements xsi:type="uml:Enumeration" name="l">
+        <ownedLiteral name="a"/>
+        <ownedLiteral name="k"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:PrimitiveType" name="a"/>
+      <ownedElements xsi:type="uml:DataType"/>
+      <ownedElements xsi:type="uml:DataType" name="f">
+        <attributes name="p" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1/@ownedElements.0/@ownedElements.1/@ownedElements.0"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Model" name="j">
+        <ownedElements xsi:type="uml:DataType" name="h">
+          <attributes type="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.0"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:DataType"/>
+        <ownedElements xsi:type="uml:Package" name="d">
+          <ownedElements xsi:type="uml:Class" name="j">
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.7" isSubstitutable="true"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package" name="f">
+            <ownedElements xsi:type="uml:Model" name="n">
+              <ownedElements xsi:type="uml:DataType" name="e"/>
+            </ownedElements>
+          </ownedElements>
+          <ownedElements xsi:type="uml:DataType" name="g"/>
+          <ownedElements xsi:type="uml:Enumeration" name="g"/>
+          <ownedElements xsi:type="uml:Enumeration" name="b">
+            <ownedLiteral/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class" name="i">
+            <attributes type="//@ownedElements.5/@ownedElements.3"/>
+            <attributes name="n" type="//@ownedElements.6"/>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:DataType"/>
+        <ownedElements xsi:type="uml:Association" name="n" source="//@ownedElements.0/@ownedElements.1/@ownedElements.7" target="//@ownedElements.0/@ownedElements.0/@ownedElements.7/@ownedElements.2/@ownedElements.0"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Package" name="n">
+      <ownedElements xsi:type="uml:Model" name="b"/>
+      <ownedElements xsi:type="uml:Model" name="f">
+        <ownedElements xsi:type="uml:DataType"/>
+        <ownedElements xsi:type="uml:PrimitiveType" name="e"/>
+        <ownedElements xsi:type="uml:PrimitiveType" name="p"/>
+        <ownedElements xsi:type="uml:Class" name="k"/>
+        <ownedElements xsi:type="uml:Association" name="f" source="//@ownedElements.0/@ownedElements.0/@ownedElements.7/@ownedElements.2/@ownedElements.5" target="//@ownedElements.7/@ownedElements.6"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Enumeration">
+        <ownedLiteral/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:PrimitiveType" name="i"/>
+      <ownedElements xsi:type="uml:PrimitiveType" name="l"/>
+      <ownedElements xsi:type="uml:DataType" name="l"/>
+      <ownedElements xsi:type="uml:DataType"/>
+      <ownedElements xsi:type="uml:Class" name="g" abstract="true">
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.7"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model" name="a">
+      <ownedElements xsi:type="uml:DataType" name="n"/>
+      <ownedElements xsi:type="uml:DataType" name="q"/>
+      <ownedElements xsi:type="uml:PrimitiveType" name="h"/>
+      <ownedElements xsi:type="uml:Enumeration" name="n">
+        <ownedLiteral name="i"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Model" name="l">
+        <ownedElements xsi:type="uml:Model" name="a">
+          <ownedElements xsi:type="uml:Model"/>
+          <ownedElements xsi:type="uml:PrimitiveType"/>
+        </ownedElements>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model" name="m">
+      <ownedElements xsi:type="uml:Class" name="q">
+        <attributes name="a" type="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Package" name="m"/>
+      <ownedElements xsi:type="uml:DataType" name="d"/>
+      <ownedElements xsi:type="uml:Package" name="c">
+        <ownedElements xsi:type="uml:Class" name="e" abstract="true">
+          <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.7" isSubstitutable="true"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Model" name="m">
+          <ownedElements xsi:type="uml:Class" name="n"/>
+          <ownedElements xsi:type="uml:Class" name="j" abstract="true"/>
+          <ownedElements xsi:type="uml:DataType" name="i">
+            <attributes name="c" type="//@ownedElements.5/@ownedElements.6/@ownedElements.2"/>
+            <attributes name="d" type="//@ownedElements.7/@ownedElements.0"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:DataType" name="q"/>
+          <ownedElements xsi:type="uml:Class" name="e">
+            <generalizations general="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.4/@ownedElements.1"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class" name="h">
+            <attributes name="j" type="//@ownedElements.5/@ownedElements.2"/>
+            <attributes name="d" type="//@ownedElements.5/@ownedElements.11/@ownedElements.5/@ownedElements.5"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.3"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.7/@ownedElements.2/@ownedElements.0" isSubstitutable="true"/>
+          </ownedElements>
+        </ownedElements>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Association" name="k" source="//@ownedElements.7/@ownedElements.4" target="//@ownedElements.0/@ownedElements.3/@ownedElements.0"/>
+      <ownedElements xsi:type="uml:Package" name="p"/>
+      <ownedElements xsi:type="uml:DataType"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:PrimitiveType" name="h"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="f"/>
+    <ownedElements xsi:type="uml:Class" name="f">
+      <attributes name="b" type="//@ownedElements.11"/>
+      <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.7/@ownedElements.2/@ownedElements.5"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:DataType" name="p">
+      <attributes type="//@ownedElements.0/@ownedElements.0/@ownedElements.3"/>
+    </ownedElements>
+  </ownedElements>
+  <ownedElements xsi:type="uml:Association" name="d" source="//@ownedElements.11" target="//@ownedElements.7/@ownedElements.4"/>
+  <ownedElements xsi:type="uml:Enumeration" name="h"/>
+  <ownedElements xsi:type="uml:Association" name="j" source="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.3/@ownedElements.0/@ownedElements.3" target="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.3"/>
+  <ownedElements xsi:type="uml:Model" name="l">
+    <ownedElements xsi:type="uml:Class" name="h"/>
+    <ownedElements xsi:type="uml:Enumeration" name="l">
+      <ownedLiteral name="f"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Package" name="l">
+      <ownedElements xsi:type="uml:Class" name="b">
+        <attributes name="l" type="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.2"/>
+      </ownedElements>
+    </ownedElements>
+  </ownedElements>
+  <ownedElements xsi:type="uml:Package" name="h">
+    <ownedElements xsi:type="uml:Class" name="j" abstract="true">
+      <attributes name="h" type="//@ownedElements.0/@ownedElements.3/@ownedElements.0"/>
+      <attributes name="c" type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+      <generalizations general="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.4/@ownedElements.1"/>
+      <generalizations general="//@ownedElements.7/@ownedElements.6"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:DataType" name="f">
+      <attributes name="c" type="//@ownedElements.5/@ownedElements.0"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:PrimitiveType" name="e"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="k"/>
+    <ownedElements xsi:type="uml:Enumeration" name="n">
+      <ownedLiteral name="g"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:PrimitiveType" name="a"/>
+    <ownedElements xsi:type="uml:Package" name="b">
+      <ownedElements xsi:type="uml:PrimitiveType" name="f"/>
+      <ownedElements xsi:type="uml:PrimitiveType" name="g"/>
+      <ownedElements xsi:type="uml:DataType" name="j"/>
+      <ownedElements xsi:type="uml:PrimitiveType" name="e"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="c">
+      <ownedLiteral name="i"/>
+      <ownedLiteral name="c"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model" name="k">
+      <ownedElements xsi:type="uml:Enumeration" name="l"/>
+      <ownedElements xsi:type="uml:Enumeration" name="m">
+        <ownedLiteral/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class" name="k"/>
+      <ownedElements xsi:type="uml:Association" name="h" source="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.5" target="//@ownedElements.7/@ownedElements.6"/>
+      <ownedElements xsi:type="uml:Package" name="h">
+        <ownedElements xsi:type="uml:Enumeration"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="j"/>
+    <ownedElements xsi:type="uml:Model" name="g"/>
+    <ownedElements xsi:type="uml:Package" name="k">
+      <ownedElements xsi:type="uml:PrimitiveType" name="f"/>
+      <ownedElements xsi:type="uml:DataType" name="n"/>
+      <ownedElements xsi:type="uml:Association" name="d" source="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4" target="//@ownedElements.0/@ownedElements.0/@ownedElements.7/@ownedElements.2/@ownedElements.0"/>
+      <ownedElements xsi:type="uml:Association" name="p" source="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.4/@ownedElements.1" target="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.3/@ownedElements.0/@ownedElements.3"/>
+      <ownedElements xsi:type="uml:Association" name="i" source="//@ownedElements.0/@ownedElements.1/@ownedElements.7" target="//@ownedElements.11"/>
+      <ownedElements xsi:type="uml:Model" name="f">
+        <ownedElements xsi:type="uml:DataType" name="q"/>
+        <ownedElements xsi:type="uml:Package" name="c">
+          <ownedElements xsi:type="uml:Class" name="k">
+            <attributes name="a" type="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.3/@ownedElements.0/@ownedElements.3"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Enumeration" name="l">
+            <ownedLiteral name="p"/>
+            <ownedLiteral/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class" name="j" abstract="true">
+            <attributes type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.3"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Association" name="l" source="//@ownedElements.0/@ownedElements.1/@ownedElements.7" target="//@ownedElements.5/@ownedElements.8/@ownedElements.2"/>
+          <ownedElements xsi:type="uml:Association" name="h" source="//@ownedElements.0/@ownedElements.0/@ownedElements.7/@ownedElements.2/@ownedElements.5" target="//@ownedElements.5/@ownedElements.11/@ownedElements.5/@ownedElements.4"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:DataType" name="m"/>
+        <ownedElements xsi:type="uml:PrimitiveType"/>
+        <ownedElements xsi:type="uml:Class" name="j">
+          <generalizations general="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.4/@ownedElements.1"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:PrimitiveType" name="p"/>
+        <ownedElements xsi:type="uml:Enumeration" name="f">
+          <ownedLiteral name="i"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Enumeration"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Model" name="n">
+        <ownedElements xsi:type="uml:Model" name="l">
+          <ownedElements xsi:type="uml:PrimitiveType" name="h"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:DataType" name="k"/>
+        <ownedElements xsi:type="uml:Enumeration"/>
+        <ownedElements xsi:type="uml:Model" name="p">
+          <ownedElements xsi:type="uml:Model" name="q">
+            <ownedElements xsi:type="uml:Model" name="f">
+              <ownedElements xsi:type="uml:PrimitiveType"/>
+            </ownedElements>
+            <ownedElements xsi:type="uml:PrimitiveType" name="k"/>
+            <ownedElements xsi:type="uml:Association" name="q" source="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.0" target="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.5"/>
+            <ownedElements xsi:type="uml:Class" name="k"/>
+            <ownedElements xsi:type="uml:Association" name="b" source="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.5" target="//@ownedElements.5/@ownedElements.0"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Association" name="c" source="//@ownedElements.0/@ownedElements.6" target="//@ownedElements.11"/>
+          <ownedElements xsi:type="uml:Model"/>
+          <ownedElements xsi:type="uml:DataType"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Model" name="q">
+          <ownedElements xsi:type="uml:PrimitiveType" name="q"/>
+          <ownedElements xsi:type="uml:Class" name="q" abstract="true"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:PrimitiveType" name="q"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="g"/>
+    <ownedElements xsi:type="uml:DataType" name="f">
+      <attributes name="p" type="//@ownedElements.9"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model" name="d">
+      <ownedElements xsi:type="uml:PrimitiveType" name="j"/>
+      <ownedElements xsi:type="uml:DataType" name="h"/>
+    </ownedElements>
+  </ownedElements>
+  <ownedElements xsi:type="uml:DataType" name="q"/>
+  <ownedElements xsi:type="uml:Model" name="h">
+    <ownedElements xsi:type="uml:DataType" name="a">
+      <attributes name="d" type="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.5"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:DataType" name="p">
+      <attributes name="m" type="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.5"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Package" name="n">
+      <ownedElements xsi:type="uml:Model" name="c">
+        <ownedElements xsi:type="uml:Enumeration"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class" name="q"/>
+      <ownedElements xsi:type="uml:PrimitiveType" name="i"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Association" name="n" source="//@ownedElements.5/@ownedElements.11/@ownedElements.5/@ownedElements.1/@ownedElements.0" target="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1/@ownedElements.0/@ownedElements.1/@ownedElements.0"/>
+    <ownedElements xsi:type="uml:Class" name="b">
+      <attributes name="e" type="//@ownedElements.5/@ownedElements.9"/>
+      <generalizations general="//@ownedElements.0/@ownedElements.6" isSubstitutable="true"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model" name="q"/>
+    <ownedElements xsi:type="uml:Class" name="e" abstract="true">
+      <attributes name="p" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1/@ownedElements.4/@ownedElements.1"/>
+      <generalizations general="//@ownedElements.7/@ownedElements.6"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:DataType" name="d">
+      <attributes name="f" type="//@ownedElements.0/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4"/>
+      <attributes name="j" type="//@ownedElements.10"/>
+      <attributes name="g" type="//@ownedElements.7/@ownedElements.7"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Package" name="h">
+      <ownedElements xsi:type="uml:Package" name="h"/>
+      <ownedElements xsi:type="uml:Association" name="d" source="//@ownedElements.5/@ownedElements.11/@ownedElements.6/@ownedElements.4/@ownedElements.1" target="//@ownedElements.0/@ownedElements.3/@ownedElements.0"/>
+      <ownedElements xsi:type="uml:DataType" name="l"/>
+    </ownedElements>
+  </ownedElements>
+  <ownedElements xsi:type="uml:Association" name="j" source="//@ownedElements.0/@ownedElements.1/@ownedElements.7" target="//@ownedElements.11"/>
+  <ownedElements xsi:type="uml:PrimitiveType" name="q"/>
+  <ownedElements xsi:type="uml:DataType" name="i">
+    <attributes name="q" type="//@ownedElements.0/@ownedElements.0/@ownedElements.4"/>
+  </ownedElements>
+  <ownedElements xsi:type="uml:Class" name="n">
+    <attributes name="b" type="//@ownedElements.0/@ownedElements.1/@ownedElements.1/@ownedElements.1"/>
+    <generalizations general="//@ownedElements.5/@ownedElements.0" isSubstitutable="true"/>
+  </ownedElements>
+</uml:Model>

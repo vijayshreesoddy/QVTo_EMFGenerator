@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdb:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:rdb="http://www.eclipse.org/qvt/1.0.0/Operational/examples/rdb" name="p">
+  <schemas name="n"/>
+  <schemas name="g"/>
+  <schemas name="g"/>
+  <schemas/>
+  <schemas name="p"/>
+  <schemas name="a"/>
+  <schemas name="l"/>
+  <schemas name="k"/>
+  <schemas name="j"/>
+  <schemas name="g"/>
+  <schemas name="a"/>
+  <schemas name="d"/>
+  <schemas name="b"/>
+  <schemas name="b"/>
+  <schemas name="d"/>
+  <schemas name="g"/>
+  <schemas name="a"/>
+  <schemas name="p"/>
+</rdb:Model>

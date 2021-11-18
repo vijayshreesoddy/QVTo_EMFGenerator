@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdb:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rdb="http://www.eclipse.org/qvt/1.0.0/Operational/examples/rdb" name="model">
+  <schemas name="class">
+    <elements xsi:type="rdb:Table" name="Call">
+      <columns name="callDescription" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="callDescription6" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="callId" isPrimaryKey="true">
+        <type name="varchar"/>
+      </columns>
+      <columns name="callId1" isPrimaryKey="true">
+        <type name="varchar"/>
+      </columns>
+      <columns name="callResolved" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="callResolved5" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="callSeverity" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="callSeverity3" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="callShortDescription" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="callShortDescription2" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="callTimestamp" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="callTimestamp4" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="common" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="customer7_customerId" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="customer7_customerId8" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="customer_customerId" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="customer_customerId8" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <primaryKey name="PKCall" includedColumns="//@schemas.0/@elements.0/@columns.2 //@schemas.0/@elements.0/@columns.3"/>
+      <foreignKeys name="FKcustomer" includedColumns="//@schemas.0/@elements.0/@columns.15 //@schemas.0/@elements.0/@columns.16" referredUC="//@schemas.0/@elements.1/@primaryKey"/>
+      <foreignKeys name="FKcustomer7" includedColumns="//@schemas.0/@elements.0/@columns.13 //@schemas.0/@elements.0/@columns.14" referredUC="//@schemas.0/@elements.1/@primaryKey"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Customer">
+      <columns name="city" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="common" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="contractDate" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="contractDate12" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="countryCode" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="customerId" isPrimaryKey="true">
+        <type name="int"/>
+      </columns>
+      <columns name="customerId8" isPrimaryKey="true">
+        <type name="int"/>
+      </columns>
+      <columns name="customerTitle" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="customerTitle11" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="email" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="firstName" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="firstName10" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="lastName" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="lastName9" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="middleName" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="middleName14" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="phone" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="stateCode" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="street" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="zipCode" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <primaryKey name="PKCustomer" includedColumns="//@schemas.0/@elements.1/@columns.5 //@schemas.0/@elements.1/@columns.6"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="ServiceAgreement">
+      <columns name="customer_customerId" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="customer_customerId8" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="saDescription" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="saDescription18" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="saId" isPrimaryKey="true">
+        <type name="int"/>
+      </columns>
+      <columns name="saId15" isPrimaryKey="true">
+        <type name="int"/>
+      </columns>
+      <columns name="saPrice" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="saPrice17" isPrimaryKey="false">
+        <type name="varchar"/>
+      </columns>
+      <columns name="serviceLevel" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <columns name="serviceLevel16" isPrimaryKey="false">
+        <type name="int"/>
+      </columns>
+      <primaryKey name="PKServiceAgreement" includedColumns="//@schemas.0/@elements.2/@columns.4 //@schemas.0/@elements.2/@columns.5"/>
+      <foreignKeys name="FKcustomer" includedColumns="//@schemas.0/@elements.2/@columns.0 //@schemas.0/@elements.2/@columns.1" referredUC="//@schemas.0/@elements.1/@primaryKey"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Call1">
+      <primaryKey name="PKCall1"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Customer2">
+      <primaryKey name="PKCustomer2"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="ServiceAgreement3">
+      <primaryKey name="PKServiceAgreement3"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Call1">
+      <primaryKey name="PKCall1"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Customer2">
+      <primaryKey name="PKCustomer2"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="ServiceAgreement3">
+      <primaryKey name="PKServiceAgreement3"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Call1">
+      <primaryKey name="PKCall1"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Customer2">
+      <primaryKey name="PKCustomer2"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="ServiceAgreement3">
+      <primaryKey name="PKServiceAgreement3"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Call1">
+      <primaryKey name="PKCall1"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Customer2">
+      <primaryKey name="PKCustomer2"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="ServiceAgreement3">
+      <primaryKey name="PKServiceAgreement3"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Call1">
+      <primaryKey name="PKCall1"/>
+    </elements>
+    <elements xsi:type="rdb:Table" name="Customer2">
+      <primaryKey name="PKCustomer2"/>
+    </elements>
+  </schemas>
+</rdb:Model>

@@ -1,0 +1,32 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: hu.bme.mit.inf.dslreasoner.application.ui
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: hu.bme.mit.inf.dslreasoner.application.ui; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: hu.bme.mit.inf.dslreasoner.application,
+ hu.bme.mit.inf.dslreasoner.application.ide,
+ org.eclipse.xtext.ui,
+ org.eclipse.xtext.ui.shared,
+ org.eclipse.xtext.ui.codetemplates.ui,
+ org.eclipse.ui.editors;bundle-version="3.5.0",
+ org.eclipse.ui.ide;bundle-version="3.5.0",
+ org.eclipse.ui;bundle-version="3.108.1",
+ org.eclipse.ui.workbench.texteditor,
+ org.eclipse.ui.console;bundle-version="3.6.201",
+ org.eclipse.jface;bundle-version="3.12.2",
+ org.eclipse.core.filesystem,
+ org.eclipse.text,
+ org.eclipse.compare,
+ org.eclipse.xtext.builder,
+ org.eclipse.xtend.lib;bundle-version="2.14.0";resolution:=optional,
+ org.eclipse.xtext.xbase.lib;bundle-version="2.14.0",
+ org.eclipse.viatra.addon.validation.runtime.ui;bundle-version="1.7.0"
+Import-Package: org.apache.log4j
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: hu.bme.mit.inf.dslreasoner.application.ui.quickfix,
+ hu.bme.mit.inf.dslreasoner.application.ui.contentassist,
+ hu.bme.mit.inf.dslreasoner.application.ui.internal
+Bundle-Activator: hu.bme.mit.inf.dslreasoner.application.ui.internal.ApplicationActivator
+Automatic-Module-Name: hu.bme.mit.inf.dslreasoner.application.ui

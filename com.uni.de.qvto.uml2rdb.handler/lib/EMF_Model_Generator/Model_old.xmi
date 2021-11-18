@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="2.0"
+    xmlns:xmi="http://www.omg.org/XMI"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:uml="http://www.eclipse.org/qvt/1.0.0/Operational/examples/simpleuml"
+    xsi:schemaLocation="http://www.eclipse.org/qvt/1.0.0/Operational/examples/simpleuml SimpleUML.ecore">
+  <ownedElements
+      xsi:type="uml:Package">
+    <ownedElements
+        xsi:type="uml:Package">
+      <ownedElements
+          xsi:type="uml:Package">
+        <ownedElements
+            xsi:type="uml:Class">
+          <attributes/>
+        </ownedElements>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements
+        xsi:type="uml:Class">
+      <attributes/>
+    </ownedElements>
+    <ownedElements
+        xsi:type="uml:Enumeration"/>
+    <ownedElements
+        xsi:type="uml:Association"/>
+    <ownedElements
+        xsi:type="uml:PrimitiveType"/>
+    <ownedElements
+        xsi:type="uml:Package"/>
+  </ownedElements>
+</uml:Model>

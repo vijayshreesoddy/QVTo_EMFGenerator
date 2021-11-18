@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Headless
+Bundle-SymbolicName: com.uni.de.qvto.headless;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Activator: com.uni.de.qvto.headless.Activator
+Bundle-Vendor: UNI
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.emf.common,
+ org.eclipse.emf.ecore,
+ org.eclipse.emf.ecore.xmi,
+ org.eclipse.m2m.qvt.oml,
+ org.eclipse.emf.ecore.change 
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: com.uni.de.qvto.headless
+Bundle-ActivationPolicy: lazy
+Export-Package: com.uni.de.qvto.headless.model

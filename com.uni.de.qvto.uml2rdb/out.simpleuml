@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="ASCII"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/qvt/1.0.0/Operational/examples/simpleuml" name="model">
+  <taggedValue/>
+  <ownedElements xsi:type="uml:Package" name="MqFYm">
+    <taggedValue name="Ck1&lt;>"/>
+    <taggedValue name="IWakyMMkCZ6"/>
+    <taggedValue name="K_JKdD"/>
+    <taggedValue value="ILE5^c>BK"/>
+    <taggedValue name="Zp\3d["/>
+    <taggedValue value=">AKrmpPGH"/>
+    <taggedValue name="adQ:i"/>
+    <taggedValue/>
+    <taggedValue name="T8s==" value="&lt;[fGU2eKEH"/>
+    <taggedValue name="Ubco=xDMr_"/>
+    <taggedValue/>
+    <taggedValue value="9GuqLiD"/>
+    <taggedValue value="FnL]h"/>
+    <taggedValue name="m&lt;in2^" value="\s>07>wh]"/>
+    <taggedValue name="Z^X0p^rbqu" value="IaKAh"/>
+    <taggedValue name="`ryUJ"/>
+    <taggedValue name="hYzvhKVg" value="0ZtBaVZ"/>
+    <taggedValue name="I>K4T``"/>
+    <taggedValue name="nr10GaS" value="[hywy9"/>
+    <taggedValue value="at63QmU"/>
+    <ownedElements xsi:type="uml:DataType" name="g^Bonb9"/>
+    <ownedElements xsi:type="uml:Package" name="B4[R[9l">
+      <stereotype>m?Rge</stereotype>
+      <taggedValue name="1_w?v;Mq9"/>
+      <taggedValue name="za]_[0]mT"/>
+      <taggedValue name="^1>;2xwDZ" value="7T[ex5f9b"/>
+      <taggedValue name="T3NohGa]"/>
+      <taggedValue name=">V]hq_1nl"/>
+      <taggedValue/>
+      <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.3">
+        <taggedValue name="Pr@d;R7q3" value="`CCB7eB4"/>
+        <taggedValue/>
+        <taggedValue/>
+        <taggedValue value="b73uEI"/>
+        <taggedValue/>
+        <taggedValue name="IrvkQB??t6"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class" name="8BViw" abstract="true">
+        <taggedValue name="W;wuDQG`bd@"/>
+        <taggedValue name="v2_i9B4wnQz"/>
+        <taggedValue value="L>vVXL7"/>
+        <taggedValue/>
+        <taggedValue value="\?M:IDxbK9"/>
+        <taggedValue/>
+        <attributes name="CIuK_>b" type="//@ownedElements.0/@ownedElements.1/@ownedElements.2">
+          <taggedValue value="jH7_KpF7n4W"/>
+          <taggedValue/>
+          <taggedValue value="lFXakIVRi_"/>
+          <taggedValue name="lb2Rc"/>
+          <taggedValue/>
+          <taggedValue name="fjbKy" value="@lCM1yF"/>
+        </attributes>
+        <attributes name="_^1xg5g56" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4">
+          <taggedValue name="4VT5Bp" value="Nais`ED"/>
+          <taggedValue name="`poVck[N"/>
+          <taggedValue name="N7n8RJZN=i" value="lU@&lt;KX^P?H"/>
+          <taggedValue name="O@WI;t=[" value="HUrORWp;"/>
+          <taggedValue name="xMseHH"/>
+          <taggedValue name="uo:y@dk\y"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.3/@ownedElements.5">
+          <taggedValue name="`=[nG:=dU"/>
+          <taggedValue value="7ooG_SC^"/>
+          <taggedValue name="u&lt;1KYE@"/>
+          <taggedValue/>
+          <taggedValue name="qQ\U9"/>
+          <taggedValue name="1K9Rtn" value="_k9=tPfF"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4">
+          <taggedValue/>
+          <taggedValue value="g]lq_"/>
+          <taggedValue value="8Bi_KVH"/>
+          <taggedValue name="D[9lFRtP" value="U_6]pgq"/>
+          <taggedValue/>
+          <taggedValue value="K0@Qn6"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4">
+          <taggedValue value="5H=>m6r"/>
+          <taggedValue/>
+          <taggedValue name="\r5pPl_TD6Fv"/>
+          <taggedValue/>
+          <taggedValue name="R:cZmYDg" value="jIuWn6mEJ"/>
+          <taggedValue/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.15">
+          <taggedValue name="[\ByegS" value="b:LvvJ7O?"/>
+          <taggedValue value="jc:lPNq7"/>
+          <taggedValue name="NfWHl@>i" value="h3oSeI"/>
+          <taggedValue value="8:NYV"/>
+          <taggedValue value="f8GRSYgklkj"/>
+          <taggedValue/>
+        </attributes>
+        <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1" isSubstitutable="true"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.1"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.0" isSubstitutable="true"/>
+        <generalizations isSubstitutable="true"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.1/@ownedElements.0" isSubstitutable="true"/>
+        <generalizations/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:PrimitiveType" name="Fgbhrlz">
+        <taggedValue/>
+        <taggedValue value="Wsd3;^@>zm"/>
+        <taggedValue name="vi4YNQnVZ8" value="3DTw?bs"/>
+        <taggedValue name="awnaA" value="Qyiz3k&lt;gG"/>
+        <taggedValue value="tB[tQ"/>
+        <taggedValue value="?XYzHK"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Model" name="O`eEwkH">
+        <taggedValue name="vCZ;Ri62x"/>
+        <taggedValue name="h;ZO&lt;zG" value="i[3CX:lXt"/>
+        <taggedValue name="p;GX8WI3" value="l39gZZjc"/>
+        <taggedValue/>
+        <taggedValue/>
+        <taggedValue name=":`8smld"/>
+        <ownedElements xsi:type="uml:Package">
+          <taggedValue name="]oq6spyMZ" value="lbKPt=6I8f"/>
+          <taggedValue name="?5A?m6FWzT" value="gY;UesL"/>
+          <taggedValue value="Yo3yZwX&lt;ht"/>
+          <taggedValue/>
+          <taggedValue name="=xgSd" value="&lt;kKOBzX"/>
+          <taggedValue value="psTq\PP"/>
+          <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.1" target="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1">
+            <taggedValue/>
+            <taggedValue value="TA\bN:DEAW"/>
+            <taggedValue name="U:d3`^" value="i\L7N"/>
+            <taggedValue name="ZU:b9=x"/>
+            <taggedValue/>
+            <taggedValue value="WjXA1v"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:DataType">
+            <taggedValue name="\CIUM>8"/>
+            <taggedValue value="]=v]Dsu^"/>
+            <taggedValue name="JENVK" value="^692rzyH;y"/>
+            <taggedValue value="LU3Iou"/>
+            <taggedValue name="yIFTRG0m`wn"/>
+            <taggedValue value="bqf[ijZo"/>
+            <attributes type="//@ownedElements.0/@ownedElements.2"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.0"/>
+            <attributes name="p3Wge" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.2"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.0"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.4">
+              <stereotype>>YP`p2W;Y</stereotype>
+              <stereotype>rK6xVP]^L</stereotype>
+            </attributes>
+            <attributes name="?@B5l7" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.1"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package" name="5PZJQR">
+            <taggedValue name="IViZ^9gS[^"/>
+            <taggedValue name="_mwCHv" value="A>r];@\"/>
+            <taggedValue name=":QCw3[bz" value="SWY5Ug"/>
+            <taggedValue name="^G5Y]fB"/>
+            <taggedValue value="[@sU3Yp"/>
+            <taggedValue name="VntpfwEGB" value="QFNb7`KV?=7"/>
+            <ownedElements xsi:type="uml:DataType" name="][yfIZK"/>
+            <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.4" target="//@ownedElements.0/@ownedElements.18/@ownedElements.3"/>
+            <ownedElements xsi:type="uml:Enumeration">
+              <stereotype>yDl4x]`Y</stereotype>
+              <stereotype>LdqDJ_I8</stereotype>
+              <stereotype>=LJZTfKZn</stereotype>
+            </ownedElements>
+            <ownedElements xsi:type="uml:PrimitiveType" name="Vd@;tb1"/>
+            <ownedElements xsi:type="uml:Model" name="u58:7tg>"/>
+            <ownedElements xsi:type="uml:Class" abstract="true"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Model">
+            <taggedValue value="K^kraX"/>
+            <taggedValue/>
+            <taggedValue name="?Pq>bI"/>
+            <taggedValue name="=piL7IL" value="S=aU_["/>
+            <taggedValue value="6tKU^"/>
+            <taggedValue name="6&lt;;n?[>L"/>
+            <ownedElements xsi:type="uml:Enumeration" name="naLtgp"/>
+            <ownedElements xsi:type="uml:PrimitiveType"/>
+            <ownedElements xsi:type="uml:Enumeration"/>
+            <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.1" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.1/@ownedElements.4"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="@uToftt"/>
+            <ownedElements xsi:type="uml:DataType" name="RhQse"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Enumeration" name="DZ_6Y">
+            <taggedValue value="L&lt;1FgM"/>
+            <taggedValue name="xVg=40jA"/>
+            <taggedValue name="HMrA\14oN" value="rhhR=QlAW"/>
+            <taggedValue name="zQwCPS@r" value="Ql[_=vaKmLr"/>
+            <taggedValue name="4C7oe@l5G[Cn"/>
+            <taggedValue value="82x>=uaEI"/>
+            <ownedLiteral/>
+            <ownedLiteral name="7CfWxoj"/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Association" name="QAjQps&lt;" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.5" target="//@ownedElements.0/@ownedElements.8/@ownedElements.3">
+            <taggedValue name="&lt;YdpaDwD&lt;3Tb"/>
+            <taggedValue name="Z]5W[S" value="[P>6ME"/>
+            <taggedValue name="HGaIpG8"/>
+            <taggedValue name="=o[DaSQ@X"/>
+            <taggedValue value="eWi_O2i"/>
+            <taggedValue/>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package" name="m][aerq">
+          <taggedValue name="W`baRqX"/>
+          <taggedValue name="G3K_JQ?q8]m" value="jd7wv6B>"/>
+          <taggedValue value="Xs`N[E"/>
+          <taggedValue name="^]qux"/>
+          <taggedValue name="F_k3d0" value="ebqZ;"/>
+          <taggedValue name="vafV1zs"/>
+          <ownedElements xsi:type="uml:Class">
+            <taggedValue/>
+            <taggedValue/>
+            <taggedValue name="w\JOz3E4cJB" value="Gg@D:;eNr"/>
+            <taggedValue name="EIBmi[&lt;J2" value="wocW2j`"/>
+            <taggedValue name="ZSYkV" value="uM1N3RRjJX]"/>
+            <taggedValue name="Q^`ZZ^sB" value="q[qwum9j"/>
+            <attributes name="8W2N493H" type="//@ownedElements.0/@ownedElements.13"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.2/@ownedElements.3"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.2/@ownedElements.3"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.4"/>
+            <attributes name="Bd7GSy" type="//@ownedElements.0/@ownedElements.14">
+              <stereotype>YiPAdUI</stereotype>
+            </attributes>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.0" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.1/@ownedElements.4" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.1/@ownedElements.0"/>
+            <generalizations/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.5/@ownedElements.3"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Enumeration">
+            <taggedValue name="U[wkcUR" value="Vw;hG2"/>
+            <taggedValue value="Av5L4LD0"/>
+            <taggedValue name="[qJ9F7X"/>
+            <taggedValue name="SX;LZXv_" value="@_^?lg"/>
+            <taggedValue name="Yn\Hdm" value="UF6390"/>
+            <taggedValue/>
+            <ownedLiteral name="_cDnd8"/>
+            <ownedLiteral name="?1jrEEmP_e\"/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+            <ownedLiteral name="aIcgbDj"/>
+            <ownedLiteral name="fMOUP81uS"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package">
+            <taggedValue value="LsMd;Fg"/>
+            <taggedValue value="7sTWrl"/>
+            <taggedValue name="u]cQO>YAUx" value="SaxzSf"/>
+            <taggedValue value="mg?MTgo"/>
+            <taggedValue/>
+            <taggedValue name="Hb>pny"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="YU00v"/>
+            <ownedElements xsi:type="uml:Association" name=";pW\z" source="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.1/@ownedElements.4" target="//@ownedElements.0/@ownedElements.16"/>
+            <ownedElements xsi:type="uml:PrimitiveType"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="GWiXnXBX">
+              <stereotype>sJBBlpCQV</stereotype>
+            </ownedElements>
+            <ownedElements xsi:type="uml:Package"/>
+            <ownedElements xsi:type="uml:Association" name="qcA=Wtm4@" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.1/@ownedElements.0" target="//@ownedElements.0/@ownedElements.18/@ownedElements.3"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package" name="jIEzsW">
+            <taggedValue/>
+            <taggedValue value="cn96\"/>
+            <taggedValue name="==C:vU:"/>
+            <taggedValue/>
+            <taggedValue/>
+            <taggedValue name="ljZvNJYY@" value=">tU4?zN"/>
+            <ownedElements xsi:type="uml:Class" abstract="true"/>
+            <ownedElements xsi:type="uml:Model"/>
+            <ownedElements xsi:type="uml:Enumeration"/>
+            <ownedElements xsi:type="uml:Association" name="ROjwby2" source="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.1/@ownedElements.4" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.5"/>
+            <ownedElements xsi:type="uml:Association" name="5TVDeHM" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.0" target="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1"/>
+            <ownedElements xsi:type="uml:Package"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:DataType" name="7;fOvK">
+            <taggedValue/>
+            <taggedValue value="5Hywa4c"/>
+            <taggedValue/>
+            <taggedValue/>
+            <taggedValue value=">x>duDE"/>
+            <taggedValue name="\mxLlvzU" value="C6`eG:pfqf"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.2">
+              <stereotype>:;\4F1</stereotype>
+              <stereotype>CZ9[wJ:?1y</stereotype>
+            </attributes>
+            <attributes name="p335b2" type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.5/@ownedElements.2"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.4"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Enumeration">
+            <taggedValue value="v;9Sjrumf"/>
+            <taggedValue name="K6_^Dbx"/>
+            <taggedValue value="IGI53"/>
+            <taggedValue name="XrhakRo"/>
+            <taggedValue name="]8l7st"/>
+            <taggedValue value="&lt;&lt;Hvs7C^"/>
+            <ownedLiteral name="U4VEwl"/>
+            <ownedLiteral name="mokGvjiNf5e"/>
+            <ownedLiteral name="JtLk;m?"/>
+            <ownedLiteral name="ntZjUQ"/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package" name="`F3n6er4B\q">
+          <taggedValue/>
+          <taggedValue/>
+          <taggedValue value="xo]_W@wFz"/>
+          <taggedValue/>
+          <taggedValue name="4U>nFu6Q"/>
+          <taggedValue name="gTPhBU" value="CP^y7c6"/>
+          <ownedElements xsi:type="uml:Package">
+            <taggedValue name="[3_u?uX" value="j\&lt;]35"/>
+            <taggedValue name="B[9VQZ" value="mBIuKj2"/>
+            <taggedValue name="Pnjv&lt;vunq" value="R5TfpC"/>
+            <taggedValue name="8Iwea20p_"/>
+            <taggedValue name="sRsHIG" value="UcCk4W0K2"/>
+            <taggedValue value="PYceikE@7"/>
+            <ownedElements xsi:type="uml:Class" abstract="true"/>
+            <ownedElements xsi:type="uml:Enumeration" name="1&lt;;^kWS&lt;XV:H"/>
+            <ownedElements xsi:type="uml:DataType"/>
+            <ownedElements xsi:type="uml:Class" name="P4^d[JioR"/>
+            <ownedElements xsi:type="uml:Package">
+              <stereotype>kxQP?EdN?</stereotype>
+            </ownedElements>
+            <ownedElements xsi:type="uml:Model"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Model" name="Jlqz4G\5]">
+            <taggedValue/>
+            <taggedValue value="7YqK6jbobYb"/>
+            <taggedValue name="HurQGhm" value="@5fVPku6]vd"/>
+            <taggedValue name="v;F`J1Tn"/>
+            <taggedValue name="StRE[&lt;27"/>
+            <taggedValue/>
+            <ownedElements xsi:type="uml:Package"/>
+            <ownedElements xsi:type="uml:Model"/>
+            <ownedElements xsi:type="uml:Package"/>
+            <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.0" target="//@ownedElements.0/@ownedElements.16"/>
+            <ownedElements xsi:type="uml:Enumeration"/>
+            <ownedElements xsi:type="uml:DataType"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Enumeration" name="0nEZNG">
+            <taggedValue value="V]hsXp"/>
+            <taggedValue name="B\oo4t[5pn" value="U377s_M"/>
+            <taggedValue/>
+            <taggedValue value="KXKgJb"/>
+            <taggedValue/>
+            <taggedValue value="0Mk>5"/>
+            <ownedLiteral name=">17@^=;Y="/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package">
+            <taggedValue name="NUQd^9y" value="22zrEC"/>
+            <taggedValue name="U_oR[RHIo" value="W;]xv\:NM"/>
+            <taggedValue name="rKe]SUU8"/>
+            <taggedValue value="@\cpG["/>
+            <taggedValue/>
+            <taggedValue name="w>Pq^9@G"/>
+            <ownedElements xsi:type="uml:Package" name="8h=Td"/>
+            <ownedElements xsi:type="uml:Model"/>
+            <ownedElements xsi:type="uml:DataType" name="\srsCHkB"/>
+            <ownedElements xsi:type="uml:Enumeration" name="dciz?oNz5M"/>
+            <ownedElements xsi:type="uml:DataType" name="abKWQZTv"/>
+            <ownedElements xsi:type="uml:PrimitiveType"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Model">
+            <taggedValue name=";T:oplw[Q" value="i>dL[2Bw:"/>
+            <taggedValue value="zRU=LwpcMDfF"/>
+            <taggedValue value="]=bRGLt"/>
+            <taggedValue value="TDi7O>XL"/>
+            <taggedValue name="2fALPm[2"/>
+            <taggedValue name="S58h>Tyf3`" value="mrfMz"/>
+            <ownedElements xsi:type="uml:Class" name="iu=?Q6b" abstract="true"/>
+            <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.2/@ownedElements.5" target="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.5/@ownedElements.3"/>
+            <ownedElements xsi:type="uml:PrimitiveType">
+              <stereotype>N65tnO</stereotype>
+            </ownedElements>
+            <ownedElements xsi:type="uml:Enumeration"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="rv>m`YW^"/>
+            <ownedElements xsi:type="uml:Model" name="a;W]8Fw?">
+              <stereotype>=ND4ATW0</stereotype>
+              <stereotype>=Tk7D9\</stereotype>
+            </ownedElements>
+          </ownedElements>
+          <ownedElements xsi:type="uml:PrimitiveType">
+            <taggedValue name="k9PRnt[`M" value="@X\kAaiDN"/>
+            <taggedValue/>
+            <taggedValue value="yQcqsqSL"/>
+            <taggedValue name="TqEgT:?" value="lQAZVfui@EC"/>
+            <taggedValue/>
+            <taggedValue name="98H6hknim" value="12LN&lt;Q"/>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package">
+          <stereotype>ev6\Lp</stereotype>
+          <stereotype>&lt;U&lt;:r`amxe</stereotype>
+          <taggedValue name="A>GlOl" value="hup9=;1O]"/>
+          <taggedValue value="]73gNBJ"/>
+          <taggedValue name="@_cMVJPT"/>
+          <taggedValue/>
+          <taggedValue/>
+          <taggedValue/>
+          <ownedElements xsi:type="uml:Class" name="VEr6sP3v>">
+            <taggedValue value="g@Esm?\"/>
+            <taggedValue value="YLlO0Qog?U"/>
+            <taggedValue/>
+            <taggedValue name="2;bsuamd" value="mwH]0r"/>
+            <taggedValue/>
+            <taggedValue name="21cXp_q"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.5">
+              <stereotype>xI&lt;WM4Qup&lt;</stereotype>
+              <stereotype>sO83_R</stereotype>
+            </attributes>
+            <attributes type="//@ownedElements.0/@ownedElements.2">
+              <stereotype>p3CtmPu\</stereotype>
+            </attributes>
+            <attributes type="//@ownedElements.0/@ownedElements.14"/>
+            <attributes name="WTJ]10Li5;" type="//@ownedElements.0/@ownedElements.1/@ownedElements.4">
+              <stereotype>n6pvHfFj2</stereotype>
+            </attributes>
+            <attributes name="V=f;DBJ" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.3"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.0" isSubstitutable="true"/>
+            <generalizations isSubstitutable="true"/>
+            <generalizations isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.1/@ownedElements.4" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0" isSubstitutable="true"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Model" name="Vt;NllMn">
+            <taggedValue/>
+            <taggedValue name="aU]9[I]"/>
+            <taggedValue value="`r2?Y`j`["/>
+            <taggedValue name="GXjzoc^&lt;"/>
+            <taggedValue value="SA\2V6"/>
+            <taggedValue value="6A`WM2kmbT"/>
+            <ownedElements xsi:type="uml:Class" name="65I3^w" abstract="true"/>
+            <ownedElements xsi:type="uml:Enumeration" name="XmxbE139J"/>
+            <ownedElements xsi:type="uml:Package"/>
+            <ownedElements xsi:type="uml:Model" name="hhgfn">
+              <stereotype>bgNafJ2</stereotype>
+            </ownedElements>
+            <ownedElements xsi:type="uml:PrimitiveType" name="fxP;I;G"/>
+            <ownedElements xsi:type="uml:Class"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:DataType">
+            <taggedValue name="Skra`;0a"/>
+            <taggedValue/>
+            <taggedValue name="pDD=?" value="tEYwNZJt"/>
+            <taggedValue name="[03oLB`y"/>
+            <taggedValue value="Hhg4UB&lt;JZ"/>
+            <taggedValue value="SzGROB[zJx"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.2"/>
+            <attributes type="//@ownedElements.0/@ownedElements.15"/>
+            <attributes name="9n^K8" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.4"/>
+            <attributes name="=NyjIS" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.3"/>
+            <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.2"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package" name="U802OYo@R9k">
+            <taggedValue/>
+            <taggedValue name="T`Gb;"/>
+            <taggedValue value="jrnGPq"/>
+            <taggedValue/>
+            <taggedValue value="[M[QR_XY"/>
+            <taggedValue name="fiCbe=Y"/>
+            <ownedElements xsi:type="uml:Class"/>
+            <ownedElements xsi:type="uml:Package"/>
+            <ownedElements xsi:type="uml:DataType"/>
+            <ownedElements xsi:type="uml:Package" name="Byk8`N2TEk["/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="ox12lh0HDXhV"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="8uMYA3"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class" abstract="true">
+            <taggedValue value="g;GqYuB"/>
+            <taggedValue value="Hh5R]"/>
+            <taggedValue name="meHiO?0\" value="D_3VEVhL7SG"/>
+            <taggedValue name="axGvN91" value="=yb5=?j0ohs"/>
+            <taggedValue name="xn7^9d;"/>
+            <taggedValue name="TdKTyN]m" value="u&lt;xs[V\DD"/>
+            <attributes name="a5qc8[Ow" type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+            <attributes name="&lt;5HVt" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.5"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.4"/>
+            <attributes name="nqL`RdE3" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+            <attributes name="ZQaIOVayu" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.4"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.5/@ownedElements.3" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.0" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.2" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.4"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1" isSubstitutable="true"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class" name="=zxdK\J&lt;" abstract="true">
+            <taggedValue name="&lt;\Fz>]"/>
+            <taggedValue/>
+            <taggedValue value="I1V9Tz"/>
+            <taggedValue name="&lt;4BHE>3"/>
+            <taggedValue name=";RpaVo"/>
+            <taggedValue value="@_WVkNSD"/>
+            <attributes name="e3wybWaR" type="//@ownedElements.0/@ownedElements.13"/>
+            <attributes name="b[pub`iT" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.2/@ownedElements.3"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.4"/>
+            <attributes name="jA4::b" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.5"/>
+            <attributes name="pLAGhz" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.16" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.0"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.0" isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1"/>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Enumeration">
+          <taggedValue name="H37ac8z\"/>
+          <taggedValue name="4K7T1\k"/>
+          <taggedValue name="lNhn]M"/>
+          <taggedValue name="i2gkXKDnU3i" value="3vZ1gx@5"/>
+          <taggedValue value="diR>AV"/>
+          <taggedValue name="tsFYFmR" value="^tROzKtg\"/>
+          <ownedLiteral/>
+          <ownedLiteral/>
+          <ownedLiteral/>
+          <ownedLiteral name="9rG[o"/>
+          <ownedLiteral/>
+          <ownedLiteral name="^9tyf7soX"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Model">
+          <taggedValue value="L?o^R4B"/>
+          <taggedValue name="EVvl5=t9" value="13bbP4u]"/>
+          <taggedValue name="`\N^rOp57L"/>
+          <taggedValue name="e=sa3tt_H"/>
+          <taggedValue/>
+          <taggedValue name="rv8MPbuD" value="k4WLRWY4c"/>
+          <ownedElements xsi:type="uml:Enumeration">
+            <taggedValue name="mLPWP>07WS"/>
+            <taggedValue name="X=YABy&lt;" value="dTqPTp"/>
+            <taggedValue value="dYZIiuV"/>
+            <taggedValue name="dExAOOs"/>
+            <taggedValue value="@JMU_"/>
+            <taggedValue value="r]f]eon[iE"/>
+            <ownedLiteral name="sn87E^"/>
+            <ownedLiteral name="9xqmU"/>
+            <ownedLiteral name="oXL&lt;@95="/>
+            <ownedLiteral name="=:aplWIt"/>
+            <ownedLiteral/>
+            <ownedLiteral/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Model">
+            <taggedValue/>
+            <taggedValue name="MurODPv"/>
+            <taggedValue name="^rixo2&lt;C5"/>
+            <taggedValue name="YN2duC" value="pGG7iovf"/>
+            <taggedValue/>
+            <taggedValue value="ESvT\5rA"/>
+            <ownedElements xsi:type="uml:Class"/>
+            <ownedElements xsi:type="uml:Enumeration" name="_E==oCICi]"/>
+            <ownedElements xsi:type="uml:Package"/>
+            <ownedElements xsi:type="uml:Association" name="@Fvu8" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.2" target="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.5/@ownedElements.3"/>
+            <ownedElements xsi:type="uml:Class"/>
+            <ownedElements xsi:type="uml:DataType" name="fVx?^5UOq">
+              <stereotype>c&lt;@NRrxP</stereotype>
+              <stereotype>C0ZAd37Q</stereotype>
+            </ownedElements>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class">
+            <taggedValue name="U2uzAFkE"/>
+            <taggedValue value="LBBNTEL"/>
+            <taggedValue name="&lt;D5xQ=GT"/>
+            <taggedValue value="dH`Ul"/>
+            <taggedValue name="PZtcoQn" value="nN@V_gHj"/>
+            <taggedValue name="RW9Tf"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.2"/>
+            <attributes name="f`f`62x" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.2"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.4"/>
+            <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.4">
+              <stereotype>G:WJwj_pb</stereotype>
+            </attributes>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.2"/>
+            <generalizations isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.5" isSubstitutable="true"/>
+            <generalizations/>
+            <generalizations isSubstitutable="true"/>
+            <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.0" isSubstitutable="true"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package">
+            <taggedValue name=";v8T9&lt;" value="PkeYO&lt;S"/>
+            <taggedValue value="zp8E4e"/>
+            <taggedValue value="Rc?8;y&lt;i"/>
+            <taggedValue/>
+            <taggedValue name="ua1FHW1o"/>
+            <taggedValue/>
+            <ownedElements xsi:type="uml:PrimitiveType"/>
+            <ownedElements xsi:type="uml:PrimitiveType" name="L@kaNeK">
+              <stereotype>hs\Le1P</stereotype>
+              <stereotype>k7yt?JUk</stereotype>
+              <stereotype>b0\Yo</stereotype>
+            </ownedElements>
+            <ownedElements xsi:type="uml:DataType" name="nZs1_"/>
+            <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.0" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.0"/>
+            <ownedElements xsi:type="uml:PrimitiveType"/>
+            <ownedElements xsi:type="uml:Association" name=":CwjuG" source="//@ownedElements.0/@ownedElements.18/@ownedElements.1" target="//@ownedElements.0/@ownedElements.11/@ownedElements.2"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:PrimitiveType" name="fge9D">
+            <taggedValue name=":a@2Gl" value="_h1h&lt;f"/>
+            <taggedValue name=":qx6`:3" value="[Qwg&lt;G`;yQ"/>
+            <taggedValue value="M;^ofqH4"/>
+            <taggedValue/>
+            <taggedValue value=":wUeN"/>
+            <taggedValue name="]Di?l09"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Enumeration" name="iabx1sm">
+            <taggedValue/>
+            <taggedValue value="dVaLRf&lt;?z`="/>
+            <taggedValue/>
+            <taggedValue/>
+            <taggedValue/>
+            <taggedValue value="4Z@]b9DW[q3PM"/>
+            <ownedLiteral name="yOGIj&lt;1N&lt;"/>
+            <ownedLiteral name="tWBF5e9"/>
+            <ownedLiteral/>
+            <ownedLiteral name="O3a@^SyF"/>
+            <ownedLiteral/>
+            <ownedLiteral name="AEaiRU0"/>
+          </ownedElements>
+        </ownedElements>
+      </ownedElements>
+      <ownedElements xsi:type="uml:PrimitiveType" name="x`v0l">
+        <taggedValue/>
+        <taggedValue value="6J4w]11"/>
+        <taggedValue value="7ILHv4d"/>
+        <taggedValue name="PHDMw^CDD" value="WyQSG1C"/>
+        <taggedValue name="]zYAWbrz" value="EEFu="/>
+        <taggedValue name="S`c&lt;_O" value="`PX:]tYd"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class">
+        <taggedValue name="z@sRQeIF\" value="LQgBoVYJp"/>
+        <taggedValue value="kKRhLV4f"/>
+        <taggedValue name="BD[okRwA4" value="3my0JS?"/>
+        <taggedValue value="y9N0?6"/>
+        <taggedValue value="4Rs:@>`pzt8DZ"/>
+        <taggedValue value="mqECIkKlHZR"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.3"/>
+        <attributes type="//@ownedElements.0/@ownedElements.14"/>
+        <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.2">
+          <stereotype>ASVHB&lt;</stereotype>
+          <stereotype>0I9W9sN9</stereotype>
+          <stereotype>?L9fu189lyKw</stereotype>
+          <stereotype>It>KBC;p</stereotype>
+          <stereotype>w3dN&lt;y\J87o</stereotype>
+          <stereotype>]mIqqBS@PUD</stereotype>
+        </attributes>
+        <attributes name="`[MO?" type="//@ownedElements.0/@ownedElements.2"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:PrimitiveType" name="jHAJ&lt;">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue value="s[XAf9`"/>
+      <taggedValue name="9Bi?ucwS" value="p8CX]mq"/>
+      <taggedValue name="QA9=YJ" value="Wz4A4km0F"/>
+      <taggedValue/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.0" target="//@ownedElements.0/@ownedElements.18/@ownedElements.1">
+      <taggedValue name="RRgri>ES" value="0\^L^p9Fn_\"/>
+      <taggedValue/>
+      <taggedValue value="o5X35Dz"/>
+      <taggedValue/>
+      <taggedValue name="fp_pxT[O[8"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration">
+      <taggedValue name="ZiLYn?RwW"/>
+      <taggedValue name="AJROKwNk"/>
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue/>
+      <ownedLiteral name="YfBH6A"/>
+      <ownedLiteral name="=VAQtq"/>
+      <ownedLiteral name="7^CLU9"/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="Ps@c_">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue name="STr&lt;:Rk25" value="to==?kE"/>
+      <taggedValue name="qesx_z" value="OSrd1_"/>
+      <taggedValue value="\wk:9q36r"/>
+      <ownedLiteral name="srKG3K@"/>
+      <ownedLiteral name="@KkAC_f_3"/>
+      <ownedLiteral/>
+      <ownedLiteral name="q`t]0"/>
+      <ownedLiteral name="tNY=aZlUh"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.3" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.0">
+      <taggedValue name="QivyA"/>
+      <taggedValue name="QvWP&lt;n95" value="yM8R7"/>
+      <taggedValue value="qrfmr]Kj;m"/>
+      <taggedValue/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Class" abstract="true">
+      <taggedValue/>
+      <taggedValue name="F3ow;X"/>
+      <taggedValue name="f[CZzvMzz"/>
+      <taggedValue name="Ty9SfsPb"/>
+      <attributes name="qnp34&lt;" type="//@ownedElements.0/@ownedElements.1/@ownedElements.2">
+        <taggedValue name="MK[Gb7u?"/>
+        <taggedValue name="lBsV:ywpd&lt;" value="PJ\IP?"/>
+        <taggedValue name="AVNCRk"/>
+        <taggedValue value="nXP@Xw"/>
+      </attributes>
+      <attributes name="UQXJ^:t" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.2">
+        <taggedValue name="r;lJgMKhT"/>
+        <taggedValue name=";Z=SQEKe" value="[:And1:t\&lt;x"/>
+        <taggedValue/>
+        <taggedValue/>
+      </attributes>
+      <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1">
+        <taggedValue name="F[2Tq3"/>
+        <taggedValue value="9lF8T@>nuA"/>
+        <taggedValue name="Whu=s3d"/>
+        <taggedValue name="[1[mP" value="D7b?@w=F"/>
+      </attributes>
+      <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.5">
+        <taggedValue value="oU>grTNIU"/>
+        <taggedValue/>
+        <taggedValue name="]]PsF6H" value="`^buMv"/>
+        <taggedValue value="8PA7bCV"/>
+      </attributes>
+      <generalizations isSubstitutable="true"/>
+      <generalizations general="//@ownedElements.0/@ownedElements.7" isSubstitutable="true"/>
+      <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0"/>
+      <generalizations/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model">
+      <taggedValue name="2S=ntFqe"/>
+      <taggedValue value=":o0o7Yr9"/>
+      <taggedValue value="d1r6MnV"/>
+      <taggedValue/>
+      <ownedElements xsi:type="uml:Model">
+        <taggedValue name="qVeS2E" value="O]vm3Htx"/>
+        <taggedValue name="f7^9ALfL" value="t^4kPCN8"/>
+        <taggedValue/>
+        <taggedValue/>
+        <ownedElements xsi:type="uml:Model" name="o14o[Ga"/>
+        <ownedElements xsi:type="uml:Model" name="sESe?h\f">
+          <stereotype>I_:zW\</stereotype>
+          <stereotype>4w\=z0Z</stereotype>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Model" name="HUR334XF"/>
+        <ownedElements xsi:type="uml:PrimitiveType" name="oaKfb@>SCu8"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Enumeration" name="VOfXK[">
+        <taggedValue/>
+        <taggedValue name="RoKJ`Q" value="N0`z;S1;"/>
+        <taggedValue name="&lt;bKgaFFE"/>
+        <taggedValue value="y;Xikn"/>
+        <ownedLiteral/>
+        <ownedLiteral name="YE7`A[GD"/>
+        <ownedLiteral/>
+        <ownedLiteral name="HEH2S[O"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:DataType" name="_7r&lt;6>O">
+        <taggedValue value="vXxJ_[AS"/>
+        <taggedValue name="Dt1tiB@" value="L2?\90l"/>
+        <taggedValue name="F7EMiE8^s" value="&lt;m;fyA"/>
+        <taggedValue name="mTJq`:" value="l?Nue\8"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+        <attributes name="56Sx&lt;" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.3"/>
+        <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.2"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.4"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.5"/>
+        <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.2"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.4"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class" name="]09w1q0I" abstract="true">
+        <taggedValue value="JZD`QJ8i"/>
+        <taggedValue/>
+        <taggedValue name="1cjTXyuJ" value="V_`Layza"/>
+        <taggedValue name="xl7g&lt;Ls" value="D@UePHcp"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.2/@ownedElements.3"/>
+        <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.3"/>
+        <attributes name="6ueie" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.3"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4"/>
+        <attributes name="EyZ\umK" type="//@ownedElements.0/@ownedElements.15"/>
+        <attributes name="uRJaN" type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.2"/>
+        <attributes name="YA_qq3^Ip" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.4"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.5"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.1/@ownedElements.0"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.3" isSubstitutable="true"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1" isSubstitutable="true"/>
+        <generalizations/>
+        <generalizations isSubstitutable="true"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="73blaJ">
+      <taggedValue value="w:63i]l7"/>
+      <taggedValue name="iyW[ik" value="&lt;V:eM32rh"/>
+      <taggedValue value="zR96y1"/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+      <ownedLiteral name="\;pX3@T"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="@HCBFUHPFaQ">
+      <stereotype>QCt=6</stereotype>
+      <stereotype>LXYU\RHL</stereotype>
+      <stereotype>v]rxEAW</stereotype>
+      <stereotype>vD2^>?gqP</stereotype>
+      <stereotype>OpUm[_GAP</stereotype>
+      <stereotype>a^`&lt;6p;`QYQX</stereotype>
+      <stereotype>gqU0V8jlm0</stereotype>
+      <stereotype>12GdgZsK_</stereotype>
+      <taggedValue name="3[e1t" value="Piiwnm"/>
+      <taggedValue value="3aQIG8"/>
+      <taggedValue name="NIsjlXj"/>
+      <ownedLiteral name="_zu&lt;W9zz6"/>
+      <ownedLiteral name="jew2waJ"/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Package" name="77V:7UM95v[2">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue name="nB1thz" value="UsiyO"/>
+      <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.2/@ownedElements.5" target="//@ownedElements.0/@ownedElements.7"/>
+      <ownedElements xsi:type="uml:Package"/>
+      <ownedElements xsi:type="uml:Class">
+        <stereotype>EjVFP;Jq3</stereotype>
+        <stereotype>L@iKZ</stereotype>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1" target="//@ownedElements.0/@ownedElements.1/@ownedElements.1"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="^T[zHqZ&lt;8b"/>
+    <ownedElements xsi:type="uml:PrimitiveType">
+      <stereotype>cMkG2[^?P</stereotype>
+    </ownedElements>
+    <ownedElements xsi:type="uml:PrimitiveType" name="fzx37&lt;"/>
+    <ownedElements xsi:type="uml:Class"/>
+    <ownedElements xsi:type="uml:Enumeration" name="GR;r2_J">
+      <taggedValue value="TeO1f7"/>
+      <taggedValue name="Z_x7O8rf[A="/>
+      <taggedValue/>
+      <taggedValue/>
+      <ownedLiteral name="3SkR@t?>"/>
+      <ownedLiteral name="QboHZM"/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Model" name="PXXEA>4d5s">
+      <taggedValue name="hrqUS" value="&lt;RYbY"/>
+      <taggedValue name="zsVlx=KG" value="j4ZVxQ8"/>
+      <taggedValue name="lGQv4" value="b?D;05&lt;fI"/>
+      <taggedValue/>
+      <taggedValue name="1;v;vZ2GB"/>
+      <ownedElements xsi:type="uml:Enumeration" name="NN3bOZ">
+        <taggedValue value="u0C\jiH"/>
+        <taggedValue/>
+        <taggedValue/>
+        <taggedValue value="qIRRMyeI"/>
+        <taggedValue name="a_TEkujF;"/>
+        <ownedLiteral name="v?YtA7UYOK9"/>
+        <ownedLiteral name="@ufI;6"/>
+        <ownedLiteral name="]2wkMAlfzt"/>
+        <ownedLiteral name="Qfct4I;1Aqb"/>
+        <ownedLiteral/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class" name="Q];OrA">
+        <taggedValue name="1mxpdYNYAZ" value="aG>VvN&lt;Tu"/>
+        <taggedValue value="Wc?G\0m>"/>
+        <taggedValue name="dugntEf:1U" value="@[3Vn\ql"/>
+        <taggedValue name="YOdR&lt;8o[&lt;6WB" value="y?;?F9"/>
+        <taggedValue name="qmKUS>uX71v" value="FBMtx3"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1">
+          <taggedValue name="amR&lt;debIr" value="DciM?;CcHz"/>
+          <taggedValue name="Bhk3mE^YE" value="D>6Oiw"/>
+          <taggedValue value="Odb5@Z"/>
+          <taggedValue/>
+          <taggedValue name="Jo1sW:sF"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.5/@ownedElements.2">
+          <taggedValue/>
+          <taggedValue value="mU9h2r"/>
+          <taggedValue name="L`uyaO"/>
+          <taggedValue name="J;ZYQtX" value="gmc:x@@z"/>
+          <taggedValue value="l0>gqlp"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.1"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.5"/>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.1">
+          <taggedValue name="?gQv8^" value="x^KFkz"/>
+          <taggedValue/>
+          <taggedValue name="^2]XVY9y"/>
+          <taggedValue name="D4k35nN;A=" value="THs0p3iTj"/>
+          <taggedValue name="^NTp^E03F" value="xl8K:l"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.4">
+          <stereotype>QGHRwVO</stereotype>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.4">
+          <taggedValue value="kcuOcdB4C"/>
+          <taggedValue name="K[al>>0Wd" value="o2E[Xh21Z"/>
+          <taggedValue value="hshz@Mbfib"/>
+          <taggedValue value="1DOLX"/>
+          <taggedValue value="=]?CrnxH"/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.0/@ownedElements.3/@ownedElements.4">
+          <taggedValue value="UyN2_:"/>
+          <taggedValue name="ZvL4Y39" value="X4\vyS[N?"/>
+          <taggedValue value="0;>s`dbE"/>
+          <taggedValue/>
+          <taggedValue name="]:7\S6O]"/>
+        </attributes>
+        <generalizations general="//@ownedElements.0/@ownedElements.11/@ownedElements.2"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.8/@ownedElements.3"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.0/@ownedElements.3" isSubstitutable="true"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.11/@ownedElements.2" isSubstitutable="true"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Package">
+        <taggedValue name="gil&lt;it67" value="bsjxNYyI"/>
+        <taggedValue name="l^woQ" value="Oa07_i"/>
+        <taggedValue/>
+        <taggedValue value="X?y;6s"/>
+        <taggedValue name=";upWMO[3" value="M4L1TJkoQ"/>
+        <ownedElements xsi:type="uml:Package" name="n7es&lt;We0c">
+          <ownedElements xsi:type="uml:Package" name="zG`gm8U">
+            <ownedElements xsi:type="uml:Package" name="MsEZ7nJa">
+              <ownedElements xsi:type="uml:Package" name="djG]V>a">
+                <ownedElements xsi:type="uml:Package" name="37M_zjI[Qa">
+                  <ownedElements xsi:type="uml:Package">
+                    <ownedElements xsi:type="uml:Class" name="RDqL>=E" abstract="true">
+                      <stereotype>q;M2Fx^</stereotype>
+                      <attributes type="//@ownedElements.0/@ownedElements.14"/>
+                    </ownedElements>
+                    <ownedElements xsi:type="uml:Class" name="zcu&lt;a^OvgPr">
+                      <stereotype>^pV8No?</stereotype>
+                      <stereotype>U_G&lt;xAl</stereotype>
+                      <stereotype>X7wKYE</stereotype>
+                    </ownedElements>
+                  </ownedElements>
+                </ownedElements>
+              </ownedElements>
+            </ownedElements>
+          </ownedElements>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Model">
+          <taggedValue value="3NU84Q"/>
+          <taggedValue name="o_pkuW"/>
+          <taggedValue/>
+          <taggedValue name="8>E8A:Y&lt;jP11" value="vhxTM"/>
+          <taggedValue name="\:OvC["/>
+          <ownedElements xsi:type="uml:Model"/>
+          <ownedElements xsi:type="uml:Association" name="WzTaZP9fBgZ" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.0" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.3/@ownedElements.0"/>
+          <ownedElements xsi:type="uml:Enumeration" name="e2fBh"/>
+          <ownedElements xsi:type="uml:Model" name="cOCX=9@">
+            <stereotype>b?z=?^EQc</stereotype>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Class" abstract="true"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:PrimitiveType">
+          <taggedValue/>
+          <taggedValue name="ynLgP&lt;`i" value="Xxy\=ND5"/>
+          <taggedValue/>
+          <taggedValue value="_M_;2FY\I"/>
+          <taggedValue name="hKh1J:Ji"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:PrimitiveType">
+          <taggedValue name="1Hbh`e"/>
+          <taggedValue name="Z569@HeYGhH"/>
+          <taggedValue name="kRyG0qr:" value="fdk6j"/>
+          <taggedValue name="t8i;EoWvgMHt" value="bSMn>GJmFb"/>
+          <taggedValue name="GT25CwHU"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Association" name="9AqQxL" source="//@ownedElements.0/@ownedElements.11/@ownedElements.2" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.3/@ownedElements.0">
+          <taggedValue name="ZWcat" value="teQ]c==F"/>
+          <taggedValue/>
+          <taggedValue value="1LOmbk"/>
+          <taggedValue name="pmk4h6URhP"/>
+          <taggedValue name="Oc&lt;XIU33"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package">
+          <taggedValue value=">PP8Cu"/>
+          <taggedValue name="fG;rFL]"/>
+          <taggedValue/>
+          <taggedValue value="\0e^Y["/>
+          <taggedValue name="Kb2ydfsj>1[" value="9XOts5xI"/>
+          <ownedElements xsi:type="uml:Model"/>
+          <ownedElements xsi:type="uml:Package"/>
+          <ownedElements xsi:type="uml:PrimitiveType" name="GnKKBdw"/>
+          <ownedElements xsi:type="uml:Class"/>
+          <ownedElements xsi:type="uml:Enumeration"/>
+        </ownedElements>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Class" name="gFkX3B1H">
+        <taggedValue/>
+        <taggedValue/>
+        <taggedValue name="97adIAr"/>
+        <taggedValue name="Rr0P1VX" value="k?SNvl\"/>
+        <taggedValue/>
+        <attributes name="DJPw[^" type="//@ownedElements.0/@ownedElements.1/@ownedElements.4">
+          <taggedValue name="cMxIqXpw"/>
+          <taggedValue name="&lt;rv]Dqf:" value="U]>QY4Gm"/>
+          <taggedValue/>
+          <taggedValue name="9xWu]1SmJJ"/>
+          <taggedValue name="qhlv3HH@" value="n^wMBy"/>
+        </attributes>
+        <attributes name="gh7=Ht:I" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.3">
+          <taggedValue name="9jdJ>;:" value="cySkgfd"/>
+          <taggedValue value="5hlgS>Z"/>
+          <taggedValue value="Kg\GgUN4o>"/>
+          <taggedValue value="j5Vn\t"/>
+          <taggedValue name="wndGh=M"/>
+        </attributes>
+        <attributes name="v>KJcDu2V" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.1/@ownedElements.2/@ownedElements.2">
+          <taggedValue name="CZqggrdEZ=z" value="]^Q_2;d8@"/>
+          <taggedValue/>
+          <taggedValue/>
+          <taggedValue value="XKE`nRDx"/>
+          <taggedValue value="vBLVa:["/>
+        </attributes>
+        <attributes type="//@ownedElements.0/@ownedElements.18/@ownedElements.4">
+          <taggedValue name="=B7iLbnY"/>
+          <taggedValue name="ejyOw"/>
+          <taggedValue/>
+          <taggedValue value="VDtzVw6^o"/>
+          <taggedValue/>
+        </attributes>
+        <attributes name="=F6JV9xMT" type="//@ownedElements.0/@ownedElements.13">
+          <stereotype>Mcx0EuL</stereotype>
+          <taggedValue name="T@80G0o"/>
+          <taggedValue name="^r5pPM"/>
+          <taggedValue/>
+          <taggedValue/>
+          <taggedValue name="gl1\ha3"/>
+        </attributes>
+        <generalizations/>
+        <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.1/@ownedElements.4"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.3/@ownedElements.5" isSubstitutable="true"/>
+        <generalizations general="//@ownedElements.0/@ownedElements.18/@ownedElements.1"/>
+        <generalizations isSubstitutable="true"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:PrimitiveType" name="hxAa3p^u7">
+        <taggedValue name="k_kRCLYF20"/>
+        <taggedValue name="DC3h[RruTt&lt;" value="Gi@n3qCi"/>
+        <taggedValue/>
+        <taggedValue name="hS>[9LglZ" value="qij9xuf"/>
+        <taggedValue name="XdnUOHF@28"/>
+      </ownedElements>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="[Y>3WVf0">
+      <taggedValue value="DZ=UCl`Xm"/>
+      <taggedValue value="\YcvG8z?"/>
+      <taggedValue value="2DlsVqJc39"/>
+      <taggedValue/>
+      <taggedValue/>
+      <ownedLiteral name="J^HHKBzR`"/>
+      <ownedLiteral/>
+      <ownedLiteral/>
+      <ownedLiteral name="j_14yBc"/>
+      <ownedLiteral/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Enumeration" name="YD;Eq\&lt;fj">
+      <taggedValue name="WlL>8u" value="ZT5PVEP"/>
+      <taggedValue/>
+      <taggedValue value="tN_GgG:"/>
+      <taggedValue/>
+      <taggedValue value="k4CIbn]_rK"/>
+      <taggedValue name="5M]P6S"/>
+      <ownedLiteral/>
+      <ownedLiteral name="cczQ[Ii"/>
+      <ownedLiteral name="]Z:jUo"/>
+      <ownedLiteral/>
+      <ownedLiteral name="zNWC^A]"/>
+      <ownedLiteral name="MHxP?o:2E"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Association" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.1/@ownedElements.4" target="//@ownedElements.0/@ownedElements.8/@ownedElements.3">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue name="sR;yi" value="t7cVV?"/>
+      <taggedValue value="7rXk5BH"/>
+      <taggedValue value="6Uvv3"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Association" name="h]CT960:x" source="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.2" target="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.2"/>
+  </ownedElements>
+  <ownedElements xsi:type="uml:DataType" name="ly5i2AI">
+    <taggedValue value="guBr7\MMY"/>
+    <taggedValue/>
+    <taggedValue/>
+    <taggedValue/>
+    <taggedValue/>
+    <taggedValue name="B2>9wY"/>
+    <taggedValue/>
+    <taggedValue value="4LniW[>d"/>
+    <taggedValue value="`cbM^Og"/>
+    <taggedValue name="z@zAjAyK" value="8:\[s"/>
+    <taggedValue/>
+    <taggedValue value="Yl\`a"/>
+    <taggedValue/>
+    <taggedValue value="BoJhXZv"/>
+    <attributes type="//@ownedElements.0/@ownedElements.8/@ownedElements.0/@ownedElements.3">
+      <taggedValue name="FI@Pf=t" value="s?9r?9AJTu="/>
+      <taggedValue name="\ZF]S>]t&lt;"/>
+      <taggedValue value="KLJf&lt;ir"/>
+      <taggedValue value="ix^mK78"/>
+      <taggedValue name="=Gldodb" value="U[ilMv^E"/>
+    </attributes>
+    <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.5">
+      <stereotype>S=Ig\j</stereotype>
+      <taggedValue name="]cwa>eu" value="YB;4]H"/>
+      <taggedValue name="[1r>QLRm4"/>
+      <taggedValue name=">`qXsp"/>
+      <taggedValue value="f:tvmM6"/>
+    </attributes>
+    <attributes name="AjOgT;x" type="//@ownedElements.0/@ownedElements.1/@ownedElements.2">
+      <taggedValue name="ikGF;VT3G" value="RrNbFbr"/>
+      <taggedValue name="p^::ME;"/>
+      <taggedValue/>
+      <taggedValue name="ISbEwP"/>
+    </attributes>
+    <attributes name="2b_esR@d" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.0">
+      <taggedValue name="a@8OrL"/>
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue/>
+    </attributes>
+    <attributes name="gR=zWS]_" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.3/@ownedElements.4">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue name="N5JTsV5B"/>
+    </attributes>
+    <attributes name="sIjRu" type="//@ownedElements.0/@ownedElements.2">
+      <taggedValue name=":8e1oQy" value="Z7Mq>PgQ7"/>
+      <taggedValue name="wmAJnxk"/>
+      <taggedValue value="BdSuhC>u"/>
+    </attributes>
+    <attributes name="Ml7wN@" type="//@ownedElements.0/@ownedElements.18/@ownedElements.2/@ownedElements.2"/>
+    <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.2"/>
+    <attributes name="t@At[w_" type="//@ownedElements.0/@ownedElements.1/@ownedElements.2">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue/>
+    </attributes>
+    <attributes name="4:hEPC" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.5">
+      <taggedValue/>
+      <taggedValue value="5LT@eRU"/>
+      <taggedValue/>
+      <taggedValue name="aB2]1M"/>
+    </attributes>
+    <attributes type="//@ownedElements.0/@ownedElements.14">
+      <taggedValue name="bDjd2pKD8yG" value="OEXT`Txq"/>
+      <taggedValue/>
+      <taggedValue name="5uPVqt]" value="9VwcSPzK"/>
+      <taggedValue name="C3gA&lt;"/>
+      <taggedValue name="[lSbpD9>" value="6OuDT64"/>
+    </attributes>
+    <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.5/@ownedElements.4">
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue name="vju;b"/>
+      <taggedValue value="_ZtoF"/>
+      <taggedValue name="_MKmElMI" value="A8eLV&lt;"/>
+    </attributes>
+    <attributes type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.2">
+      <stereotype>SpO&lt;;H</stereotype>
+      <stereotype>\R5B17Nf</stereotype>
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue/>
+      <taggedValue value="V&lt;d@Dks"/>
+      <taggedValue name="C@D2bUBp]"/>
+    </attributes>
+    <attributes name="s0u]Bwv;" type="//@ownedElements.0/@ownedElements.1/@ownedElements.3/@ownedElements.2/@ownedElements.4/@ownedElements.2">
+      <taggedValue name="I]&lt;Znxn"/>
+      <taggedValue value="D7b]I3"/>
+      <taggedValue value="wQ5TKD@AD;"/>
+      <taggedValue name="q4n6kNWf"/>
+      <taggedValue name="dOnkzCL"/>
+    </attributes>
+  </ownedElements>
+</uml:Model>

@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="ASCII"?>
+<uml:Model xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:uml="http://www.eclipse.org/qvt/1.0.0/Operational/examples/simpleuml" name="model">
+  <ownedElements xsi:type="uml:Package" name="com">
+    <ownedElements xsi:type="uml:Package" name="borland">
+      <ownedElements xsi:type="uml:Package" name="tg">
+        <ownedElements xsi:type="uml:Package" name="mda">
+          <ownedElements xsi:type="uml:Package" name="sample">
+            <ownedElements xsi:type="uml:Package" name="domain">
+              <ownedElements xsi:type="uml:Package" name="class">
+                <ownedElements xsi:type="uml:Class" name="Call">
+                  <stereotype>persistent</stereotype>
+                  <attributes name="callId" type="//@ownedElements.1/@ownedElements.0">
+                    <stereotype>primaryKey</stereotype>
+                  </attributes>
+                  <attributes name="callShortDescription" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="callSeverity" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.4"/>
+                  <attributes name="callTimestamp" type="//@ownedElements.1/@ownedElements.1"/>
+                  <attributes name="callResolved" type="//@ownedElements.1/@ownedElements.2"/>
+                  <attributes name="callDescription" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customer" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1"/>
+                  <attributes name="callId21" type="//@ownedElements.1/@ownedElements.0">
+                    <stereotype>primaryKey</stereotype>
+                  </attributes>
+                  <attributes name="callShortDescription20" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="callSeverity19" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.4"/>
+                  <attributes name="callTimestamp18" type="//@ownedElements.1/@ownedElements.1"/>
+                  <attributes name="callResolved17" type="//@ownedElements.1/@ownedElements.2"/>
+                  <attributes name="callDescription16" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customer15" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1"/>
+                  <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.6" isSubstitutable="true"/>
+                  <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.6" isSubstitutable="true"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Customer">
+                  <stereotype>persistent</stereotype>
+                  <attributes name="customerId" type="//@ownedElements.1/@ownedElements.1">
+                    <stereotype>primaryKey</stereotype>
+                  </attributes>
+                  <attributes name="lastName" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="firstName" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customerTitle" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="contractDate" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="address" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.5"/>
+                  <attributes name="middleName" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customerId14" type="//@ownedElements.1/@ownedElements.1">
+                    <stereotype>primaryKey</stereotype>
+                  </attributes>
+                  <attributes name="lastName13" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="firstName12" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customerTitle11" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="contractDate10" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="address9" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.5"/>
+                  <attributes name="middleName8" type="//@ownedElements.1/@ownedElements.0"/>
+                  <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.6" isSubstitutable="true"/>
+                  <generalizations general="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.6" isSubstitutable="true"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="ServiceAgreement">
+                  <stereotype>persistent</stereotype>
+                  <attributes name="saId" type="//@ownedElements.1/@ownedElements.1">
+                    <stereotype>primaryKey</stereotype>
+                  </attributes>
+                  <attributes name="serviceLevel" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.3"/>
+                  <attributes name="saPrice" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="saDescription" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customer" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1"/>
+                  <attributes name="saId7" type="//@ownedElements.1/@ownedElements.1">
+                    <stereotype>primaryKey</stereotype>
+                  </attributes>
+                  <attributes name="serviceLevel6" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.3"/>
+                  <attributes name="saPrice5" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="saDescription4" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="customer3" type="//@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.0/@ownedElements.1"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum">
+                  <ownedLiteral name="BRONZE"/>
+                  <ownedLiteral name="SILVER"/>
+                  <ownedLiteral name="GOLD"/>
+                  <ownedLiteral name="BRONZE7"/>
+                  <ownedLiteral name="SILVER6"/>
+                  <ownedLiteral name="GOLD5"/>
+                  <ownedLiteral name="BRONZE1"/>
+                  <ownedLiteral name="SILVER0"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum">
+                  <ownedLiteral name="NORMAL"/>
+                  <ownedLiteral name="CRITICAL"/>
+                  <ownedLiteral name="ENHANCEMENT"/>
+                  <ownedLiteral name="NORMAL4"/>
+                  <ownedLiteral name="CRITICAL3"/>
+                  <ownedLiteral name="ENHANCEMENT2"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:DataType" name="Address">
+                  <attributes name="street" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="city" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="stateCode" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="zipCode" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="countryCode" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="email" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="phone" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="street2" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="city1" type="//@ownedElements.1/@ownedElements.0"/>
+                  <attributes name="stateCode0" type="//@ownedElements.1/@ownedElements.0"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Abstract" abstract="true">
+                  <attributes name="common" type="//@ownedElements.1/@ownedElements.0"/>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum24"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum23"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum22"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum21"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum20"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum19"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum18"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum17"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum16"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum15"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum14"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum13"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum12"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum11"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum10"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum9"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum8"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum7"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum6"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum5"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum4"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum3"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum2"/>
+                <ownedElements xsi:type="uml:Enumeration" name="SeverityEnum1"/>
+                <ownedElements xsi:type="uml:Enumeration" name="ServiceLevelEnum0"/>
+                <ownedElements xsi:type="uml:Class" name="Call18">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Customer17">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="ServiceAgreement16">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Abstract15" abstract="true"/>
+                <ownedElements xsi:type="uml:Class" name="Call14">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Customer13">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="ServiceAgreement12">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Abstract11" abstract="true"/>
+                <ownedElements xsi:type="uml:Class" name="Call10">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Customer9">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="ServiceAgreement8">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Abstract7" abstract="true"/>
+                <ownedElements xsi:type="uml:Class" name="Call6">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Customer5">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="ServiceAgreement4">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Abstract3" abstract="true"/>
+                <ownedElements xsi:type="uml:Class" name="Call2">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="Customer1">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+                <ownedElements xsi:type="uml:Class" name="ServiceAgreement0">
+                  <stereotype>persistent</stereotype>
+                </ownedElements>
+              </ownedElements>
+              <ownedElements xsi:type="uml:Package" name="class19"/>
+              <ownedElements xsi:type="uml:Package" name="class11"/>
+              <ownedElements xsi:type="uml:Package" name="class3"/>
+            </ownedElements>
+            <ownedElements xsi:type="uml:Package" name="domain20"/>
+            <ownedElements xsi:type="uml:Package" name="domain12"/>
+            <ownedElements xsi:type="uml:Package" name="domain4"/>
+          </ownedElements>
+          <ownedElements xsi:type="uml:Package" name="sample21"/>
+          <ownedElements xsi:type="uml:Package" name="sample13"/>
+          <ownedElements xsi:type="uml:Package" name="sample5"/>
+        </ownedElements>
+        <ownedElements xsi:type="uml:Package" name="mda22"/>
+        <ownedElements xsi:type="uml:Package" name="mda14"/>
+        <ownedElements xsi:type="uml:Package" name="mda6"/>
+      </ownedElements>
+      <ownedElements xsi:type="uml:Package" name="tg23"/>
+      <ownedElements xsi:type="uml:Package" name="tg15"/>
+      <ownedElements xsi:type="uml:Package" name="tg7"/>
+    </ownedElements>
+    <ownedElements xsi:type="uml:Package" name="borland24"/>
+    <ownedElements xsi:type="uml:Package" name="borland16"/>
+    <ownedElements xsi:type="uml:Package" name="borland8"/>
+    <ownedElements xsi:type="uml:Package" name="borland0"/>
+  </ownedElements>
+  <ownedElements xsi:type="uml:Package" name="primitivetypes">
+    <ownedElements xsi:type="uml:PrimitiveType" name="String"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="Integer"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="Boolean"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="String3"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="Integer2"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="Boolean1"/>
+    <ownedElements xsi:type="uml:PrimitiveType" name="String0"/>
+  </ownedElements>
+  <ownedElements xsi:type="uml:Package" name="com25"/>
+  <ownedElements xsi:type="uml:Package" name="primitivetypes18"/>
+  <ownedElements xsi:type="uml:Package" name="com17"/>
+  <ownedElements xsi:type="uml:Package" name="primitivetypes10"/>
+  <ownedElements xsi:type="uml:Package" name="com9"/>
+  <ownedElements xsi:type="uml:Package" name="primitivetypes2"/>
+  <ownedElements xsi:type="uml:Package" name="com1"/>
+</uml:Model>

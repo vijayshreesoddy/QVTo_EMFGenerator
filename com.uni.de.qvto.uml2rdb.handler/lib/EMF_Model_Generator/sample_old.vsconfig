@@ -1,0 +1,37 @@
+
+	
+	import epackage "SimpleUML.ecore" //Ecore file path
+	
+	
+			 	generate {	 		
+			 	metamodel = { package simpleuml}// Model Package
+partial-model = {"Model.xmi"} // Sample model
+solver = ViatraSolver
+
+scope = {
+	//String input to name attribute
+	#string = {"a","b","c","d","e","f","g","h","i","j","k","l","m","n","p","q"},
+	#node = 500, //Nodes to be generated 
+	
+	 	#<TaggedValue>+=15,
+	 	#<Package>+=13,
+	 	#<Class>+=22,
+	 	#<Association>+=38,
+	 	#<Enumeration>+=46,
+	 	#<EnumerationLiteral>+=15,
+	 	#<Generalization>+=3,
+	 	#<PrimitiveType>+=4,
+	 	#<Property>+=26
+	
+}		
+	number = 1 //Number of models to generate
+		 	runs = 1 //Number of restarts - Each restart will have unique set of model
+		 	config = {
+		 		log-level = none, // Generate only xmi file
+		 		"scopePropagator" = "typeHierarchy"
+		 	}
+		 	
+		 	debug = "debug1"	//Exeception will be added to errors.txt file
+		 	output = "output1" // xmi file will be generated into this folder
+}
+	

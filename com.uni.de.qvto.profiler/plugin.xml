@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?eclipse version="3.4"?>
+<plugin>
+
+   <extension
+         point="org.eclipse.ui.views">
+      <category
+            name="QVTo Category"
+            id="com.uni.de.qvto.profiler">
+      </category>
+      <view
+            id="com.uni.de.qvto.profiler.views.QVToProfilerView"
+            name="QVTo Profiler"
+            icon="icons/sample.png"
+            class="com.uni.de.qvto.profiler.views.QVToProfilerTreeTableView"
+            category="com.uni.de.qvto.profiler"
+            inject="true">
+      </view>
+   </extension>
+   <extension
+         point="org.eclipse.help.contexts">
+      <contexts
+            file="contexts.xml">
+      </contexts>
+   </extension>
+
+</plugin>
