@@ -10,7 +10,7 @@
 	<properties>
 		<tycho.version>0.21.0</tycho.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-	<!--	<eclipse-repo.url>https://download.eclipse.org/eclipse/updates/4.15</eclipse-repo.url>
+		<eclipse-repo.url>https://download.eclipse.org/eclipse/updates/4.15</eclipse-repo.url>
 				<eclipse2020-repo.url>https://download.eclipse.org/releases/2020-03/202003181000/</eclipse2020-repo.url>
 		
 		<ajdt-repo.url>http://download.eclipse.org/tools/ajdt/48/dev/update</ajdt-repo.url>
@@ -18,11 +18,11 @@
 		<emf-repo.url>https://download.eclipse.org/modeling/emf/emf/builds/release/2.22</emf-repo.url>
 
 		<qvto-repo.url>
-			https://download.eclipse.org/mmt/qvto/updates/releases/3.10.2/</qvto-repo.url>-->
+			https://download.eclipse.org/mmt/qvto/updates/releases/3.10.2/</qvto-repo.url>
 
 	</properties>
 
-<!--	<repositories>
+	<repositories>
 		<repository>
 			<id>eclipse-release</id>
 			<url>${eclipse-repo.url}</url>
@@ -53,7 +53,7 @@
 			<url>${emf-repo.url}</url>
 			<layout>p2</layout>
 		</repository>
-	</repositories>-->
+	</repositories>
 
 	<build>
 		<pluginManagement>
