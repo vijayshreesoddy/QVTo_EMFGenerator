@@ -66,7 +66,7 @@
 			<unit id="org.eclipse.ocl.master.feature.group" version="6.12.0.v20200608-1555"/>
 		</location>
 		<location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-			<repository location="https://download.eclipse.org/mmt/qvto/updates/releases/3.10.2/"/>
+			<repository location="https://archive.eclipse.org/mmt/qvto/updates/releases/3.10.2/"/>
 			<unit id="org.eclipse.m2m.qvt.oml.sdk.feature.group" version="3.10.2.v20200609-1812"/>
 			<unit id="org.eclipse.m2m.qvt.oml.tools.coverage.feature.group" version="1.6.2.v20200609-1812"/>
 		</location>
