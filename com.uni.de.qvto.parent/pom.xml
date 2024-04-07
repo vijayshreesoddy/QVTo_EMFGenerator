@@ -126,8 +126,8 @@
         </environment>
 						<environment>
 							<os>macosx</os>
-							<!-- <ws>cocoa</ws>
-							<arch>x86_64</arch>-->
+							<ws>cocoa</ws>
+							<arch>x86_64</arch>
 						</environment>
 					</environments>
 				</configuration>
