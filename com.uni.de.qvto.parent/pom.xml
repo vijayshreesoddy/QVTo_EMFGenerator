@@ -117,7 +117,7 @@
                     
        				 <pomDependencies>consider</pomDependencies>
 					<!-- Optional set the Java version your are using -->
-					<executionEnvironment>JavaSE-1.8</executionEnvironment> 
+					<!--<executionEnvironment>JavaSE-1.8</executionEnvironment> -->
 					<environments>
 					<environment>
           <os>win32</os>
@@ -126,8 +126,8 @@
         </environment>
 						<environment>
 							<os>macosx</os>
-							<ws>cocoa</ws>
-							<arch>x86_64</arch>
+							<!-- <ws>cocoa</ws>
+							<arch>x86_64</arch>-->
 						</environment>
 					</environments>
 				</configuration>
