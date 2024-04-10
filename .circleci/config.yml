@@ -2,7 +2,7 @@
 # Stacks detected: deps:java:com.uni.de.qvto.target
 version: 2.1
 jobs:
-  test-java:
+  Build_QVToProfilerProduct:
     docker:
       - image: cimg/openjdk:8.0
     working_directory: ~/project/com.uni.de.qvto.parent
@@ -28,7 +28,7 @@ jobs:
 workflows:
   build-and-test:
     jobs:
-      - Build QVTo Profiler Product
+      - Build_QVToProfilerProduct
     # - deploy:
     #     requires:
     #       - test-java
