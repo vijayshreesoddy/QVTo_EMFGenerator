@@ -25,4 +25,11 @@ jobs:
       - store_artifacts:
           path: ~/project/com.uni.de.qvto.mice.product/target/products/com.uni.de.qvto.product-macosx.cocoa.x86_64.tar.gz
           destination: QVTo_Profiler
+workflows:
+  build-and-test:
+    jobs:
+      - test-java
+    # - deploy:
+    #     requires:
+    #       - test-java
  
