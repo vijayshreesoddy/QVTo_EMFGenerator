@@ -24,6 +24,9 @@ jobs:
           key: cache-{{ checksum "/tmp/CIRCLECI_CACHE_KEY" }}
           paths:
             - ~/.m2/repository
+      - store_artifacts:
+          path: ~/project/com.uni.de.qvto.mice.product/target/products/com.uni.de.qvto.product-macosx.cocoa.x86_64.tar.gz
+          destination: QVTo_Profiler
   deploy:
     # This is an example deploy job, not actually used by the workflow
     docker:
