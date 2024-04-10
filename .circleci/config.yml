@@ -28,7 +28,7 @@ jobs:
 workflows:
   build-and-test:
     jobs:
-      - test-java
+      - Build QVTo Profiler Product
     # - deploy:
     #     requires:
     #       - test-java
