@@ -22,7 +22,7 @@ public class ProfilerBarChart {
 
 	 public ProfilerBarChart(String appTitle) {
 
-		    // Create Dataset
+		    // Create Dataset variable 
 		    CategoryDataset dataset = createDataset();
 		    
 		    //Create chart
