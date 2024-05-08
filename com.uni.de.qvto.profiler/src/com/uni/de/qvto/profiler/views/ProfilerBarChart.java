@@ -25,7 +25,7 @@ public class ProfilerBarChart {
 		    // Create Dataset var
 		    CategoryDataset dataset = createDataset();
 		    
-		    //Create chart 
+		    //Create chart var
 		    JFreeChart chart=ChartFactory.createBarChart(
 		        "QVTo Rules Execution Time", //Chart Title
 		        "QVTo Rules", // Category axis
