@@ -19,7 +19,7 @@ public class InfluxDataWriter {
 	private static String org = "University of Stuttgart";
 	private static String bucket = "Monitoring-Data";
 
-	// private volatile InfluxDB influxDB;
+	// private volatile InfluxDB influxDB
 	private static InfluxDataWriter WRITER = null;
 	private InfluxDBClient influxDBClient = null;
 
