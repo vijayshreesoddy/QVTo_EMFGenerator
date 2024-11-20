@@ -54,7 +54,7 @@ public class ModelCreater {
 			e.printStackTrace();
 		}
 
-			// check the result for success
+			// check the result for successs
 	}
 	
 	private static Map<String, List<EObject>> getEObjectsMap(Resource inResource) {
